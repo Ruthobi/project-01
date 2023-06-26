@@ -1,0 +1,278 @@
+.nav-link{
+    font-style: italic;
+}
+
+.sec-div {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.912), rgba(0, 0, 0, 0.443), rgba(0, 0, 0, 0.818)), url('./architech.jpg');
+    height: 100vh;
+    padding-top: 5rem;
+}
+.caption {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 250px;
+}
+
+.paragraph1 {
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+}
+
+.brt {
+    margin-top: 30px;
+    padding: 10px 40px;
+    border-radius: 20px;
+    border-color: yellow;
+
+}
+
+.sect-div {
+    background-color: aliceblue;
+    height: 100vh;
+    padding-top: 20px;
+}
+
+.title {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 40px;
+    font-size: 15px;
+    text-align: center;
+    }
+
+.lor-2 {
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 70px;
+}
+.lor-2 {
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#card-title {
+    margin: 5px;
+    font-weight: bolder;
+    margin-left: 30px;
+    font-size: larger;
+    text-align: center;
+}
+
+.title-2 {
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+.container-2 {
+    margin-top: 30px;
+}
+
+#list {
+    margin: 5px;
+    padding: 3px 3px;
+    width: 300px;
+    font-size: 12px;
+    font-weight: bold
+}
+
+#list-2 {
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.brt-2 {
+    margin-top: 50px;
+    margin-left: 15rem;
+    background-color: yellow;
+    color: whitesmoke;
+    padding: 20px;
+    font-weight: bolder;
+}
+
+.const-div {
+    background-color: aliceblue;
+    padding-top: 20px;
+    
+}
+
+#head {
+    text-align: center;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 150px;
+}
+
+#paragraph {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.division {
+    display: flex;
+    justify-content: space-around;
+}
+
+.division-2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    margin-bottom: 30px;
+
+}
+
+.serv-div {
+    background-color: aliceblue;
+    padding-top: 20px;
+}
+
+.cap {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    font-weight: bolder;
+}
+
+.cap1 {
+    text-align: center;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.fa-solid {
+    margin-top: 30px;
+    margin-left: 150px;
+    font-size: 40px;
+}
+
+#learn {
+    color: darkorange;
+    font-size: larger;
+}
+
+.serv-2 {
+    background-color: aliceblue;
+    height: 100vh;
+    width: 100%;
+    padding-top: 30px;
+}
+
+.serv-3 {
+    display: flex;
+    justify-content: space-around;
+    font-style: italic;
+}
+
+.carousel-inner :hover{
+   cursor: pointer; 
+   color: darkblue;
+   }
+
+.proj-1{
+    background-color: aliceblue;
+    height: 100vh;
+    padding-top: 20px;
+}
+.proj-2{
+    text-align: center;
+}
+
+.team{
+    background-color: aliceblue;
+    height: 100vh;
+    padding-top: 20px;
+}
+.teams{
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.test{
+    background-color: aliceblue;
+    height: 100vh;
+    padding-top: 30px;
+}
+.test-1{
+    text-align: center;
+    color: cornflowerblue;
+}
+.test-2{
+text-align: center;
+}
+.carousel-item{
+display: flex;
+}
+
+.fa {
+    margin-top: 30px;
+    margin-left: 150px;
+    font-size: 40px;
+}
+
+.foot {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.969), rgba(0, 0, 0, 0.771), rgba(0, 0, 0, 0.462)), url('./skyscraper.jpg');
+    height: 70vh;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+    color: white;
+}
+#up {
+    font-size: 25px;
+}
+
+#address {
+    margin-top: 50px;
+}
+
+.fa-brands{
+    font-size:20px;
+    margin: 10px;
+    }
+    .links{
+        font-size:15px;
+    }
+    .social :hover{
+        cursor: pointer;
+        background-color: yellow;
+        
+    }
+.links :hover{
+    cursor: pointer;
+    color: burlywood;
+}
+.foot2{
+    background-color: black;
+    height: 30vh;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#copy{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
